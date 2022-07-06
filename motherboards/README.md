@@ -2,6 +2,8 @@
 
 All ROM here are physically dumped using TL866II Plus.
 
+Questions? Info to share? [Raise an issue](https://github.com/dekuNukem/BIOS_ROM_Dumps/issues) or email me dekuNukem gmail com.
+
 ## Generic SARC RC2016A4 386SX motherboard
 
 ![Alt text](photos/sarc_386.JPG)
@@ -16,7 +18,7 @@ All ROM here are physically dumped using TL866II Plus.
 
 [Click me to download BIOS image](SARC_386SX.BIN)
 
-This style of cheap and generic 386 motherboards seem to be churned out from Taiwan in large numbers from in 90s.
+This style of cheap and generic 386 motherboards seem to be churned out from Taiwan in large numbers in early 90s.
 
 Usually they have a 386SX running at 20 to 40MHz, not very remarkable.
 
@@ -30,7 +32,7 @@ Usually they have a 386SX running at 20 to 40MHz, not very remarkable.
 
 [Click me to download BIOS image](29GDX4.BIN)
 
-[More information here](https://www.ultimateretro.net/en/motherboards/5545)
+[Detailed information here](https://www.ultimateretro.net/en/motherboards/5545)
 
 ## Unknown SiS VLB Motherboard
 
@@ -45,6 +47,8 @@ Usually they have a 386SX running at 20 to 40MHz, not very remarkable.
 [Click me to download BIOS image](SIS_85C471.BIN)
 
 I don't see any model number or identification strings on this motherboard. Very mysterious!
+
+Info to share? [Raise an issue](https://github.com/dekuNukem/BIOS_ROM_Dumps/issues) or email me dekuNukem gmail com.
 
 ## V4P895GRN OPTi VLB
 

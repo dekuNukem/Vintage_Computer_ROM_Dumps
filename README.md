@@ -11,3 +11,5 @@ All BIOS ROM here are **physically dumped** using TL866II Plus.
 ## [Click me for Graphic Card ROMs](graphics_cards)
 
 ## [Click me for Miscellaneous ROMs](misc)
+
+Questions? Info to share? [Raise an issue](https://github.com/dekuNukem/BIOS_ROM_Dumps/issues) or email me dekuNukem gmail com.
