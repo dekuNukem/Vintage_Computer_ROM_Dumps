@@ -1,4 +1,4 @@
-# My ROM Dumps
+# My Obscure ROM Archive
 
 EEPROM dumps of my retro hardwares, mostly ones that can't be found elsewhere.
 
