@@ -10,17 +10,17 @@ Questions? Info to share? [Raise an issue](https://github.com/dekuNukem/BIOS_ROM
 
 ## Table of Contents
 
-* [Generic SARC RC2016A4 386SX motherboard](generic-sarc-rc2016a4-386sx-motherboard)
+* [Generic SARC RC2016A4 386SX motherboard](#generic-sarc-rc2016a4-386sx-motherboard)
 
-* [Kaimei SA-486 VL-BUS M.B. REV. V2C 29GDX4-11B](kaimei-sa-486-vl-bus-mb-rev-v2c-29gdx4-11b)
+* [Kaimei SA-486 VL-BUS M.B. REV. V2C 29GDX4-11B](#kaimei-sa-486-vl-bus-mb-rev-v2c-29gdx4-11b)
 
-* [Unknown SiS VLB Motherboard](unknown-sis-vlb-motherboard)
+* [Unknown SiS VLB Motherboard](#unknown-sis-vlb-motherboard)
 
-* [V4P895GRN OPTi VLB](v4p895grn-opti-vlb)
+* [V4P895GRN OPTi VLB](#v4p895grn-opti-vlb)
 
-* [Amstrad PC6486SX](amstrad-pc6486sx)
+* [Amstrad PC6486SX](#amstrad-pc6486sx)
 
-* [Hazeltine 1421 Terminal](hazeltine-1421-terminal)
+* [Hazeltine 1421 Terminal](#hazeltine-1421-terminal)
 
 ## Generic SARC RC2016A4 386SX motherboard
 
