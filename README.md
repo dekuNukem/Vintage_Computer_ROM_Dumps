@@ -98,7 +98,7 @@ Very little information about this one, seems very similar to Hazeltine 1420, st
 
 Three mask ROMs, all 2716 equivalent. Lower two for the CPU, upper right character ROM.
 
-![Alt text](motherboards/photos/hazeltine_PCB.jpeg)
+![Alt text](motherboards/photos/hazeltine_pcb.jpeg)
 
 [hazeltine_1421_H420_005_22_0](motherboards/hazeltine_1421_H420_005_22_0_M2716@DIP24.BIN)
 
