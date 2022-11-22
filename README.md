@@ -80,14 +80,31 @@ Info to share? [Raise an issue](https://github.com/dekuNukem/BIOS_ROM_Dumps/issu
 
 [Click me to download BIOS image](motherboards/amstrad_PC6486sx_27C512@DIP28.BIN)
 
-Just another generic IBM compatible with a off-the-shelf motherboard, kinda regret buying it tbh.
+Just another generic IBM compatible with off-the-shelf motherboard, kinda regret buying it tbh.
 
 Comes with 25MHz 486SX, 4MB RAM, Trident ISA video card, IO card.
 
 [More info here](https://stason.org/TULARC/pc/motherboards/A/AUVA-COMPUTER-INC-486-CAM33-P2-CPM20-P0-CPM25-P0.html)
 
+## Hazeltine 1421 Terminal
 
+![Alt text](motherboards/photos/hazeltine_1421.jpeg)
 
+#### Date Added (YYYY-MM-DD): 2022-11-22
+
+#### (E)EPROM Model: Mask ROM 2716 Equivalent
+
+Very little information about this one, seems very similar to Hazeltine 1420, still working on fixing it, excuse the dust!
+
+Three mask ROMs, all 2716 equivalent. Lower two for the CPU, upper right character ROM.
+
+![Alt text](motherboards/photos/hazeltine_PCB.jpeg)
+
+[hazeltine_1421_H420_005_22_0](motherboards/hazeltine_1421_H420_005_22_0_M2716@DIP24.BIN)
+
+[hazeltine_1421_H420_005_12_0](motherboards/hazeltine_1421_H420_005_12_0_M2716@DIP24.BIN)
+
+[hazeltine_1421_1DTD702248_CHAR_ROM](motherboards/hazeltine_1421_1DTD702248_CHAR_ROM_M2716@DIP24.BIN)
 
 
 Questions? Info to share? [Raise an issue](https://github.com/dekuNukem/BIOS_ROM_Dumps/issues) or email me dekuNukem gmail com.
