@@ -24,7 +24,7 @@ Questions? Info to share? [Raise an issue](https://github.com/dekuNukem/BIOS_ROM
 
 ## Generic SARC RC2016A4 386SX motherboard
 
-![Alt text](motherboards/photos/sarc_386.JPG)
+![Alt text](dumps/photos/sarc_386.JPG)
 
 #### Date Added (YYYY-MM-DD): 2022-07-06
 
@@ -34,7 +34,7 @@ Questions? Info to share? [Raise an issue](https://github.com/dekuNukem/BIOS_ROM
 
 #### Model String: PTV-93005342
 
-[Click me to download BIOS image](motherboards/SARC_386SX.BIN)
+[Click me to download BIOS image](dumps/SARC_386SX.BIN)
 
 This style of cheap and generic 386 motherboards seem to be churned out from Taiwan in large numbers in early 90s.
 
@@ -42,19 +42,19 @@ Usually they have a 386SX running at 20 to 40MHz, not very remarkable.
 
 ## Kaimei SA-486 VL-BUS M.B. REV. V2C 29GDX4-11B
 
-![Alt text](motherboards/photos/29gdx4.JPG)
+![Alt text](dumps/photos/29gdx4.JPG)
 
 #### Date Added (YYYY-MM-DD): 2022-07-06
 
 #### (E)EPROM Model: TMS JL 27C512-15 BLX51A3CVP SINGAPORE
 
-[Click me to download BIOS image](motherboards/29GDX4.BIN)
+[Click me to download BIOS image](dumps/29GDX4.BIN)
 
-[Detailed information here](https://www.ultimateretro.net/en/motherboards/5545)
+[Detailed information here](https://www.ultimateretro.net/en/dumps/5545)
 
 ## Unknown SiS VLB Motherboard
 
-![Alt text](motherboards/photos/sis_vlb.JPG)
+![Alt text](dumps/photos/sis_vlb.JPG)
 
 #### Date Added (YYYY-MM-DD): 2022-07-06
 
@@ -62,7 +62,7 @@ Usually they have a 386SX running at 20 to 40MHz, not very remarkable.
 
 #### (E)EPROM Model: M27C512-15XFI ST SINGAPORE
 
-[Click me to download BIOS image](motherboards/SIS_85C471.BIN)
+[Click me to download BIOS image](dumps/SIS_85C471.BIN)
 
 I don't see any model number or identification strings on this motherboard. Very mysterious!
 
@@ -70,7 +70,7 @@ Info to share? [Raise an issue](https://github.com/dekuNukem/BIOS_ROM_Dumps/issu
 
 ## V4P895GRN OPTi VLB
 
-![Alt text](motherboards/photos/v4p895grn.JPG)
+![Alt text](dumps/photos/v4p895grn.JPG)
 
 #### Date Added (YYYY-MM-DD): 2022-07-06
 
@@ -80,11 +80,11 @@ Info to share? [Raise an issue](https://github.com/dekuNukem/BIOS_ROM_Dumps/issu
 
 #### Model String: PTV-93005342
 
-[Click me to download BIOS image](motherboards/V4P895GRN.BIN)
+[Click me to download BIOS image](dumps/V4P895GRN.BIN)
 
 ## Amstrad PC6486SX
 
-![Alt text](motherboards/photos/amstrad_486.jpeg)
+![Alt text](dumps/photos/amstrad_486.jpeg)
 
 #### Date Added (YYYY-MM-DD): 2022-11-22
 
@@ -92,17 +92,17 @@ Info to share? [Raise an issue](https://github.com/dekuNukem/BIOS_ROM_Dumps/issu
 
 #### Model String: CAM33-P2
 
-[Click me to download BIOS image](motherboards/amstrad_PC6486sx_27C512@DIP28.BIN)
+[Click me to download BIOS image](dumps/amstrad_PC6486sx_27C512@DIP28.BIN)
 
 Just another generic IBM compatible with off-the-shelf motherboard, kinda regret buying it tbh.
 
 Comes with 25MHz 486SX, 4MB RAM, Trident ISA video card, IO card.
 
-[More info here](https://stason.org/TULARC/pc/motherboards/A/AUVA-COMPUTER-INC-486-CAM33-P2-CPM20-P0-CPM25-P0.html)
+[More info here](https://stason.org/TULARC/pc/dumps/A/AUVA-COMPUTER-INC-486-CAM33-P2-CPM20-P0-CPM25-P0.html)
 
 ## Hazeltine 1421 Terminal
 
-![Alt text](motherboards/photos/hazeltine_1421.jpeg)
+![Alt text](dumps/photos/hazeltine_1421.jpeg)
 
 #### Date Added (YYYY-MM-DD): 2022-11-22
 
@@ -112,13 +112,13 @@ Very little information about this one, seems very similar to Hazeltine 1420, st
 
 Three mask ROMs, all 2716 equivalent. Lower two for the CPU, upper right character ROM.
 
-![Alt text](motherboards/photos/hazeltine_pcb.jpeg)
+![Alt text](dumps/photos/hazeltine_pcb.jpeg)
 
-[hazeltine_1421_H420_005_22_0](motherboards/hazeltine_1421_H420_005_22_0_M2716@DIP24.BIN)
+[hazeltine_1421_H420_005_22_0](dumps/hazeltine_1421_H420_005_22_0_M2716@DIP24.BIN)
 
-[hazeltine_1421_H420_005_12_0](motherboards/hazeltine_1421_H420_005_12_0_M2716@DIP24.BIN)
+[hazeltine_1421_H420_005_12_0](dumps/hazeltine_1421_H420_005_12_0_M2716@DIP24.BIN)
 
-[hazeltine_1421_1DTD702248_CHAR_ROM](motherboards/hazeltine_1421_1DTD702248_CHAR_ROM_M2716@DIP24.BIN)
+[hazeltine_1421_1DTD702248_CHAR_ROM](dumps/hazeltine_1421_1DTD702248_CHAR_ROM_M2716@DIP24.BIN)
 
 
 Questions? Info to share? [Raise an issue](https://github.com/dekuNukem/BIOS_ROM_Dumps/issues) or email me dekuNukem gmail com.

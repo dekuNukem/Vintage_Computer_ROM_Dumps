@@ -12,7 +12,7 @@ def make_section(text):
 			result += letter
 		else:
 			result += '-'
-	print(f'* #[{text}]({result})\n')
+	print(f'* [{text}](#{result})\n')
 
 print("## Table of Contents\n")
 
