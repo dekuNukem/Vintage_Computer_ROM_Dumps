@@ -1,8 +1,6 @@
 # My ROM Dumps
 
-With my growing retro hardware collection, I thought it would be helpful to preserve the ROM of uncommon ones.
-
-Perhaps someone will stumble upon here when searching for some obscure stuff.
+EEPROM dumps of my retro hardwares, mostly ones that can't be found elsewhere.
 
 All ROMs here are **physically dumped** using TL866II Plus.
 
@@ -21,6 +19,8 @@ Questions? Info to share? [Raise an issue](https://github.com/dekuNukem/BIOS_ROM
 * [Amstrad PC6486SX](#amstrad-pc6486sx)
 
 * [Hazeltine 1421 Terminal](#hazeltine-1421-terminal)
+
+* [Get in Touch!](#get-in-touch)
 
 ## Generic SARC RC2016A4 386SX motherboard
 
