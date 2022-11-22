@@ -1,5 +1,0 @@
-## [Click me for Motherboard ROMs](motherboards)
-
-## [Click me for Graphic Card ROMs](graphics_cards)
-
-## [Click me for Miscellaneous ROMs](misc)
