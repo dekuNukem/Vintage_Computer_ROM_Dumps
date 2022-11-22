@@ -8,8 +8,6 @@ All ROMs here are **physically dumped** using TL866II Plus.
 
 Questions? Info to share? [Raise an issue](https://github.com/dekuNukem/BIOS_ROM_Dumps/issues) or email me dekuNukem gmail com.
 
-
-
 ## Generic SARC RC2016A4 386SX motherboard
 
 ![Alt text](motherboards/photos/sarc_386.JPG)
@@ -69,6 +67,25 @@ Info to share? [Raise an issue](https://github.com/dekuNukem/BIOS_ROM_Dumps/issu
 #### Model String: PTV-93005342
 
 [Click me to download BIOS image](motherboards/V4P895GRN.BIN)
+
+## Amstrad PC6486SX
+
+![Alt text](motherboards/photos/amstrad_486.jpeg)
+
+#### Date Added (YYYY-MM-DD): 2022-11-22
+
+#### (E)EPROM Model: 27C512
+
+#### Model String: CAM33-P2
+
+[Click me to download BIOS image](motherboards/amstrad_PC6486sx_27C512@DIP28.BIN)
+
+Just another generic IBM compatible with a off-the-shelf motherboard, kinda regret buying it tbh.
+
+Comes with 25MHz 486SX, 4MB RAM, Trident ISA video card, IO card.
+
+[More info here](https://stason.org/TULARC/pc/motherboards/A/AUVA-COMPUTER-INC-486-CAM33-P2-CPM20-P0-CPM25-P0.html)
+
 
 
 
