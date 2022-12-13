@@ -46,6 +46,12 @@ All sides, leaflets, stickers, and more.
 
 ![Alt text](print_materials/photos/4500.jpg)
 
+### Lear Siegler ADM-3A Switch Cover Scan
+
+**[CLICK ME FOR FULL SIZE SCANS](print_materials/adm_3a)**
+
+![Alt text](print_materials/photos/small.jpg)
+
 ## ROM Dumps
 
 All **physically dumped** using TL866II Plus.
