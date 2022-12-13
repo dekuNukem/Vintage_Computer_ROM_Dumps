@@ -12,6 +12,8 @@ Questions? Info to share? [Raise an issue](https://github.com/dekuNukem/BIOS_ROM
 
     - [Hercules 3D Prophet 4500 Box Scan](#hercules-3d-prophet-4500-box-scan)
 
+    - [Lear Siegler ADM-3A Switch Cover Scan](#lear-siegler-adm-3a-switch-cover-scan)
+
 - [ROM Dumps](#rom-dumps)
 
     - [Generic SARC RC2016A4 386SX motherboard](#generic-sarc-rc2016a4-386sx-motherboard)
@@ -51,6 +53,10 @@ All sides, leaflets, stickers, and more.
 **[CLICK ME FOR FULL SIZE SCANS](print_materials/adm_3a)**
 
 ![Alt text](print_materials/photos/small.jpg)
+
+Fun fact! You can actually see it says "Dumb Terminal" on top half of the switch cover. Looks like the sticker was peeled it off before leaving the factory, the yellow glue residue is visible.
+
+![Alt text](print_materials/adm_3a/dumb.jpg)
 
 ## ROM Dumps
 
