@@ -52,9 +52,11 @@ All sides, leaflets, stickers, and more.
 
 **[CLICK ME FOR FULL SIZE SCANS](print_materials/adm_3a)**
 
+Dimension: 33 x 76.5mm
+
 ![Alt text](print_materials/photos/small.jpg)
 
-Fun fact! You can actually see it says "Dumb Terminal" on top half of the switch cover. Looks like the sticker was peeled it off before leaving the factory, the yellow glue residue is visible.
+Fun fact! You can actually see it says "Dumb Terminal" on top half of the switch cover. Looks like the sticker was peeled off before leaving the factory, the yellow glue residue is visible.
 
 ![Alt text](print_materials/adm_3a/dumb.jpg)
 
